@@ -11,8 +11,8 @@ sing-box的TUN模式和Zerotier有冲突，慎用（改成TProxy即可）<br>
 TProxy：https://gh-proxy.com/https://raw.githubusercontent.com/AliceHanako/sing-box-rules/refs/heads/main/tproxy.json <br>
 <br>
 配置文件 for sing-box V1.12 FakeIP TProxy模式<br>
-TProxy：https://gh-proxy.com/https://raw.githubusercontent.com/AliceHanako/sing-box-rules/refs/heads/main/fakeip_tproxy.json <br>
+FakeIP TProxy：https://gh-proxy.com/https://raw.githubusercontent.com/AliceHanako/sing-box-rules/refs/heads/main/fakeip_tproxy.json <br>
 <br>
 配置文件 for sing-box V1.12 FakeIP TUN模式<br>
-TProxy：https://gh-proxy.com/https://raw.githubusercontent.com/AliceHanako/sing-box-rules/refs/heads/main/fakeip_tun.json <br>
+FakeIP TUN：https://gh-proxy.com/https://raw.githubusercontent.com/AliceHanako/sing-box-rules/refs/heads/main/fakeip_tun.json <br>
 <br>
